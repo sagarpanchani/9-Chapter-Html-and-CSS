@@ -1,0 +1,19 @@
+#main-part {
+    width: 650px;
+    height: 1070px;
+    background-color: rgba(174, 43, 255, 0.2);
+    margin: auto;
+}
+#col-name{
+    color: white;
+    background-color:  #093d6e;
+}
+h3{
+    color: rgb(141, 11, 141);
+}
+span{
+    color: rgb(141, 11, 141);
+}
+#span-color{
+    font-size: 25px;
+}

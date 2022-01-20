@@ -1,0 +1,31 @@
+#Chapt-name{
+    color: white;
+    background-color:  #093d6e;
+}
+table{
+    margin: auto;
+    background-color: rgba(174, 43, 255, 0.2);
+}
+#sub-table{
+    /* background-color: #ff9393; */
+    background-color: rgb(221, 255, 202);
+}
+td{
+    color:  rgb(141, 11, 141);
+}
+
+input{
+    color: rgb(141, 11, 141);
+    background-color: rgb(255, 255, 255);
+}
+
+textarea{
+    color:  rgb(141, 11, 141);
+}
+select{
+    color: rgb(141, 11, 141) ;
+}
+#reg-form{
+    color: rgb(4, 38, 112);
+}
+

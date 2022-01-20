@@ -1,0 +1,15 @@
+#main-sec {
+    width: 650px;
+
+    background-color: rgba(174, 43, 255, 0.2);
+    margin: auto;
+}
+#Chapt-name{
+    color: white;
+    background-color:  #093d6e;
+}
+.quiz-dec{
+    font-size: 20px;
+    color: #b43dd8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

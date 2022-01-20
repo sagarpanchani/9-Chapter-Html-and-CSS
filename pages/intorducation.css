@@ -1,0 +1,30 @@
+body{
+
+    font-family: sans-serif;
+}
+table{
+    background-color:rgba(174, 43, 255,0.2) ;
+    width:650;
+    height: 670;
+}
+#intro{
+    color: #ffffff;
+    background-color: #093d6e;
+}
+
+#Pers-data{
+    color: #093d6e;
+    font-family: fantasy;
+    font-weight: normal;
+}
+.Headings{
+    color: #b43dd8;
+    font-style: italic;
+}
+#name{
+    color: #00509b;
+    font-family: Agency FB;
+}
+h5{
+    font-style: italic;
+}
